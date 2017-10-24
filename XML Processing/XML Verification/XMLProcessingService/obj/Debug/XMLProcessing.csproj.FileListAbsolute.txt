@@ -1,0 +1,6 @@
+C:\Users\ACE\Documents\Visual Studio 2017\Projects\Assignment4\XMLProcessingService\bin\WcfService1.dll.config
+C:\Users\ACE\Documents\Visual Studio 2017\Projects\Assignment4\XMLProcessingService\bin\WcfService1.dll
+C:\Users\ACE\Documents\Visual Studio 2017\Projects\Assignment4\XMLProcessingService\bin\WcfService1.pdb
+C:\Users\ACE\Documents\Visual Studio 2017\Projects\Assignment4\XMLProcessingService\obj\Debug\WcfService1.dll
+C:\Users\ACE\Documents\Visual Studio 2017\Projects\Assignment4\XMLProcessingService\obj\Debug\WcfService1.pdb
+C:\Users\ACE\Documents\Visual Studio 2017\Projects\Assignment4\XMLProcessingService\obj\Debug\XMLProcessing.csprojResolveAssemblyReference.cache

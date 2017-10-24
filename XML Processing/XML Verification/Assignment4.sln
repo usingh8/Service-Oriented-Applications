@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLProcessing", "XMLProcessingService\XMLProcessing.csproj", "{CB3E2DB2-323A-49DF-8521-15C32914A8CE}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "XML_Testing_Website", "XML_Testing_Website\", "{78002187-92C8-467E-A574-FBF14E61626A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51857"
+		Debug.AspNetCompiler.PhysicalPath = "XML_Testing_Website\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51857\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51857"
+		Release.AspNetCompiler.PhysicalPath = "XML_Testing_Website\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51857\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51857"
+		SlnRelativePath = "XML_Testing_Website\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{CB3E2DB2-323A-49DF-8521-15C32914A8CE} = {CB3E2DB2-323A-49DF-8521-15C32914A8CE}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB3E2DB2-323A-49DF-8521-15C32914A8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB3E2DB2-323A-49DF-8521-15C32914A8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB3E2DB2-323A-49DF-8521-15C32914A8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB3E2DB2-323A-49DF-8521-15C32914A8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78002187-92C8-467E-A574-FBF14E61626A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78002187-92C8-467E-A574-FBF14E61626A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78002187-92C8-467E-A574-FBF14E61626A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{78002187-92C8-467E-A574-FBF14E61626A}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+c:\users\ace\documents\visual studio 2017\Projects\XmlPcossessing\WcfService1\bin\WcfService1.dll.config
+c:\users\ace\documents\visual studio 2017\Projects\XmlPcossessing\WcfService1\bin\WcfService1.dll
+c:\users\ace\documents\visual studio 2017\Projects\XmlPcossessing\WcfService1\bin\WcfService1.pdb
+c:\users\ace\documents\visual studio 2017\Projects\XmlPcossessing\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+c:\users\ace\documents\visual studio 2017\Projects\XmlPcossessing\WcfService1\obj\Debug\WcfService1.dll
+c:\users\ace\documents\visual studio 2017\Projects\XmlPcossessing\WcfService1\obj\Debug\WcfService1.pdb
